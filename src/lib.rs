@@ -17,4 +17,6 @@
 //!
 //! [ArkUI Native]: https://docs.openharmony.cn/pages/v5.0/zh-cn/application-dev/reference/apis-arkui/_ark_u_i___native_module.md
 //!
+#![cfg(feature = "api-12")]
+
 pub mod gestures;
