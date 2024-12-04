@@ -1,6 +1,6 @@
 [package]
 name = "arkui"
-version = "0.1.0"
+version = "0.0.1"
 edition = "2021"
 description = "Rust bindings to ArkUI on OpenHarmony"
 license = "Apache-2.0"
@@ -9,3 +9,4 @@ keywords = ["OpenHarmony", "HarmonyOS", "ArkUI", "UI"]
 readme = "README.md"
 
 [dependencies]
+arkui-sys = "0.1.0"
